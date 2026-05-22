@@ -34,7 +34,7 @@
 
             <div class="brand-text">
                 <h2>SiOBAT</h2>
-                <p>Sistem Informasi Manajemen Obat</p>
+                <p>Sistem Informasi Manajemen Obatt</p>
             </div>
         </a>
 
@@ -355,7 +355,7 @@
                         },
 
                         ticks: {
-                            color: '#64748b'
+                            color: '#64748c'
                         }
                     }
                 }
